@@ -4,12 +4,14 @@
 li {
    font-size: 1.5em;
 }
-li:last-child {
-   text-decoration: green underline;
+.third {
+   text-decoration: underline;
+   text-decoration-color: green;
 }
 .second {
    text-decoration: line-through;
 }
 .first {
-   text-decoration: red overline;
+   text-decoration: overline;
+   text-decoration-color: red;
 }
